@@ -1,7 +1,7 @@
 # Events Data
 JSON data containing all events for the London chapter.  Used to power the Node Girls website.
 
-Full instructions on how to update the website [here](https://github.com/node-girls/node-girls-website/blob/gh-pages/updating-site.md)
+Full instructions on how to update the website [here](https://github.com/node-girls/node-girls-website/blob/master/updating-site.md)
 
 ## Data structure
 
