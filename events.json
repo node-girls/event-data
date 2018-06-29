@@ -1,4 +1,22 @@
 [
+  
+  {
+    "date": "2018-06-21",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "title": "Introduction to Node.js and JavaScript",
+    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
+    "application_link": "https://nodegirls.typeform.com/to/cb1qaW",
+    "application_text": "Applications are now open!🎉",
+    "venue": "TBC",
+    "sponsors": [
+      {
+        "name": "TBC",
+        "link": "",
+        "logo": ""
+      }
+    ]
+  },
   {
     "date": "2018-02-03",
     "start_time": "10:00",
