@@ -8,8 +8,14 @@
     "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
     "application_link": "https://nodegirls.typeform.com/to/Zm8pt8",
     "application_text": "Applications are now open!🎉",
-    "venue": "TBC",
-    "sponsors": []
+    "venue": "Condé Nast International",
+    "sponsors": [
+      {
+        "name": "Condé Nast International",
+        "link": "http://www.condenastinternational.com/",
+        "logo": "http://www.condenastinternational.com/media/992/cni_logo_digital_ju2015.jpg"
+      }
+    ]
   }, 
   {
     "date": "2018-02-03",
