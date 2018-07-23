@@ -1,5 +1,21 @@
 [
-  
+  {
+    "date": "2018-07-31",
+    "start_time": "18:30",
+    "end_time": "21:00",
+    "title": "Workshop follow-up session",
+    "synopsis": "This is a relaxed session where you can continue working on the tutorials from any of our past workshops, with mentors on hand to help.<br/>",
+    "application_link": "",
+    "application_text": "Sign up here",
+    "venue": "Farewill",
+    "sponsors": [
+      {
+        "name": "Farewill",
+        "link": "https://farewill.com/",
+        "logo": "https://d2zr9w65gdacs9.cloudfront.net/43487/logo-black-transparent1501497588logo.png"
+      }
+    ]
+  }, 
   {
     "date": "2018-07-21",
     "start_time": "10:00",
