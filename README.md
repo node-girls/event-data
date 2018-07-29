@@ -9,6 +9,7 @@ An event object has the following structure:
 
 ```js
 {
+  "city": "",
   "date": "YYYY-MM-DD", // hyphens required
   "start_time": "HH:mm", // 24hr clock, with colon (:) and leading zero
   "end_time": "HH:mm",
@@ -28,6 +29,9 @@ An event object has the following structure:
 ```
 
 Note: you might want line breaks for `application_text` or `synopsis`. Use `<br/>` as part of your string and it will be parsed correctly.
+
+#### `city`
+The chapter in question
 
 #### `date`
 Date of the event.  **Must** be in the YYYY-MM-DD format, including hyphens.  This is parsed by Moment.js to generate a more friendly format.  It's also used by `js/template.js` to sort the data properly.
