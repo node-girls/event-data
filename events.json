@@ -15,7 +15,7 @@
         "name": "Klarna",
         "link": "https://www.klarna.com",
         "logo":
-          "https://www.klarna.com/uk/wp-content/themes/klarna/assets/images/icons/klarna.svg"
+          "./images/sponsors/klarna.png"
       }
     ]
   },
