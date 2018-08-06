@@ -4,10 +4,19 @@
     "date": "2018-09-01",
     "start_time": "10:00",
     "end_time": "16:00",
-    "title": "Introduction to Node.js",
-    "synopsis": "This is a workshop where you will learn to build your first server with Node.js. <br/>",
-    "application_link": "",
-    "application_text": "Applications open very soon...",
+    "title": "Introduction to Node.js and JavaScript",
+    "synopsis":
+      "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
+    "application_data": [
+      {
+        "application_text": "Apply to be a student",
+        "application_link": "https://nodegirlsstockholm.typeform.com/to/KHkY6h"
+      },
+      {
+        "application_text": "Volunteer as mentor",
+        "application_link": "https://nodegirlsstockholm.typeform.com/to/KplsO0"
+      }
+    ],
     "venue": "Klarna",
     "sponsors": [
       {
@@ -23,15 +32,21 @@
     "start_time": "10:00",
     "end_time": "16:00",
     "title": "Introduction to Node.js and JavaScript",
-    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
-    "application_link": "",
-    "application_text": "",
+    "synopsis":
+      "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "Condé Nast International",
     "sponsors": [
       {
         "name": "Condé Nast International",
         "link": "http://www.condenastinternational.com/",
-        "logo": "http://www.condenastinternational.com/media/992/cni_logo_digital_ju2015.jpg"
+        "logo":
+          "http://www.condenastinternational.com/media/992/cni_logo_digital_ju2015.jpg"
       }
     ]
   },
@@ -41,9 +56,14 @@
     "start_time": "10:00",
     "end_time": "16:00",
     "title": "Introduction to Node.js and JavaScript",
-    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
-    "application_link": "",
-    "application_text": "",
+    "synopsis":
+      "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "Red Badger",
     "sponsors": [
       {
@@ -59,15 +79,21 @@
     "start_time": "10:00",
     "end_time": "16:00",
     "title": "Introduction to Node.js and JavaScript",
-    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
-    "application_link": "",
-    "application_text": "",
+    "synopsis":
+      "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "Ticketmaster",
     "sponsors": [
       {
         "name": "Ticketmaster",
         "link": "http://www.ticketmaster.com",
-        "logo": "http://dohnncb4s7uno.cloudfront.net/sites/default/files/downloads/tmlogo_blue.png"
+        "logo":
+          "http://dohnncb4s7uno.cloudfront.net/sites/default/files/downloads/tmlogo_blue.png"
       }
     ]
   },
@@ -77,9 +103,14 @@
     "start_time": "10:00",
     "end_time": "16:00",
     "title": "Introduction to Node.js and JavaScript",
-    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
-    "application_link": "",
-    "application_text": "",
+    "synopsis":
+      "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "Pusher",
     "sponsors": [
       {
@@ -96,8 +127,12 @@
     "end_time": "16:00",
     "title": "Introduction to Node.js",
     "synopsis": "Learn to build your first server with Node.js",
-    "application_link": "",
-    "application_text": "",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "Pusher",
     "sponsors": [
       {
@@ -114,8 +149,12 @@
     "end_time": "17:00",
     "title": "Introduction to JavaScript",
     "synopsis": "A beginner's introduction to JavaScript and programming.",
-    "application_link": "",
-    "application_text": "",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "Qubit",
     "sponsors": [
       {
@@ -136,15 +175,21 @@
     "start_time": "10:00",
     "end_time": "17:00",
     "title": "Introduction to Express",
-    "synopsis": "Learn to build your first Node.js server with the popular Express framework.",
-    "application_link": "",
-    "application_text": "",
+    "synopsis":
+      "Learn to build your first Node.js server with the popular Express framework.",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "ThoughtWorks",
     "sponsors": [
       {
         "name": "ThoughtWorks",
         "link": "https://www.thoughtworks.com/",
-        "logo": "http://www.acchajob.com/employerzone/companypic/05-05-2017-1493982363.jpg"
+        "logo":
+          "http://www.acchajob.com/employerzone/companypic/05-05-2017-1493982363.jpg"
       }
     ]
   },
@@ -155,19 +200,25 @@
     "end_time": "17:00",
     "title": "Introduction to Node.js",
     "synopsis": "Learn to build your first server with Node.js",
-    "application_link": "",
-    "application_text": "",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "StackOverflow",
     "sponsors": [
       {
         "name": "Yieldify",
         "link": "http://yieldify.com/gb/",
-        "logo": "https://images.martechadvisor.com/images/uploads/product_logos/yieldify_59d6428ee8795.png"
+        "logo":
+          "https://images.martechadvisor.com/images/uploads/product_logos/yieldify_59d6428ee8795.png"
       },
       {
         "name": "StackOverflow",
         "link": "http://stackoverflow.com/",
-        "logo": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
+        "logo":
+          "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
       }
     ]
   },
@@ -178,8 +229,12 @@
     "end_time": "17:00",
     "title": "Introduction to Node.js",
     "synopsis": "Learn to build your first server with Node.js",
-    "application_link": "",
-    "application_text": "",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": ""
+      }
+    ],
     "venue": "StackOverflow",
     "sponsors": [
       {
@@ -190,7 +245,8 @@
       {
         "name": "StackOverflow",
         "link": "http://stackoverflow.com/",
-        "logo": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
+        "logo":
+          "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
       }
     ]
   }

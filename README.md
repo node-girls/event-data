@@ -15,8 +15,10 @@ An event object has the following structure:
   "end_time": "HH:mm",
   "title": "",
   "synopsis": "",
-  "application_link": "",
-  "application_text": "",
+  "application_data": {
+    "application_link": "",
+    "application_text": "",
+  },
   "venue": "",
   "sponsors": [ // always an array, in case of multiple sponsors
     {
@@ -47,10 +49,12 @@ This is the name of the event, e.g. "Introduction to JavaScript"
 #### `synopsis`
 Space to go into detail about the event, who it's aimed at, what people will learn etc.
 
-#### `application_link`
+#### `application_data`
+**Array** of objects, with each object containing `application_text` and `application_link`.  Multiple objects can be used if there are multiple application forms for one event, (e.g. one for students and one for mentors)
+##### `application_link`
 URL that points to wherever people should sign up.  Revert to "" when applications have closed.
 
-#### `application_text`
+##### `application_text`
 General info about applying.  This could say one of 3 things:
 1. Applications are not live yet
 2. Applications are live (see below)
