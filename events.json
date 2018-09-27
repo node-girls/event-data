@@ -1,32 +1,5 @@
 [
   {
-    "city": "oxford",
-    "date": "2018-09-29",
-    "start_time": "10:00",
-    "end_time": "16:00",
-    "title": "Introduction to Node.js and JavaScript",
-    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
-    "application_data": [
-      {
-        "application_text": "Applications now open!",
-        "application_link": "https://nodegirlsoxford.typeform.com/to/VS1UxD"
-      }
-    ],
-    "venue": "Oxfordshire County Library",
-    "sponsors": [
-      {
-        "name": "Oxfordshire County Library",
-        "link": "https://www2.oxfordshire.gov.uk/cms/content/oxfordshire-county-library-0",
-        "logo": "https://assets.codebar.io/b//uploads/sponsor/avatar/409/library_logo.JPG"
-      },
-      {
-        "name": "Deliveroo",
-        "link": "https://www.deliveroo.co.uk",
-        "logo": "images/sponsors/deliveroo.png"
-      }
-    ]
-  },
-  {
     "city": "stockholm",
     "date": "2018-09-01",
     "start_time": "10:00",
