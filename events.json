@@ -5,8 +5,8 @@
     "date": "2018-11-02",
     "start_time": "08:30",
     "end_time": "16:00",
-    "title": "Introduction to JavaScript and Node.js",
-    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
+    "title": "Introduction to Node.js",
+    "synopsis": "Learn to build your first web application with Node.js",
     "application_data": [
       {
         "application_text": "Applications are open!",
