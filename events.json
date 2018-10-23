@@ -1,5 +1,28 @@
 [
   {
+    "city": "london",
+    "city_display": "London",
+    "date": "2018-11-10",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "title": "Introduction to Node.js and JavaScript",
+    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
+    "application_data": [
+      {
+        "application_text": "Applications are open!",
+        "application_link": "https://nodegirls.typeform.com/to/UmEjUN"
+      }
+    ],
+    "venue": "Financial Times",
+    "sponsors": [
+      {
+        "name": "Financial Times",
+        "link": "https://ft.com",
+        "logo": "images/sponsors/ft.png"
+      }
+    ]
+  },
+  {
     "city": "tel-aviv",
     "city_display": "Tel Aviv",
     "date": "2018-11-02",
@@ -91,7 +114,7 @@
       {
         "name": "Red Badger",
         "link": "https://red-badger.com/",
-        "logo": "https://red-badger.com/images/logos/redbadger_logo.png"
+        "logo": "images/sponsors/red-badger.png"
       }
     ]
   },
