@@ -6,19 +6,28 @@
     "start_time": "10:00",
     "end_time": "16:00",
     "title": "Introduction to Node.js and JavaScript",
-    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
+    "synopsis": "This is a workshop with different options for both complete beginners and people who are comfortable with JavaScript. ",
     "application_data": [
       {
-        "application_text": "We will be opening applications very soon...",
-        "application_link": ""
+        "application_text": "See our Meetup page for more details.",
+        "application_link": "http://meetu.ps/e/GlBpB/v7V8T/f"
+      },
+      {
+        "application_text": "Apply for a place!",
+        "application_link": "https://docs.google.com/forms/d/e/1FAIpQLSe45gchJct__9-sVC91C7IXTRzILlAQuCXk9BOfYKTQ6i38Cw/viewform"
       }
     ],
     "venue": "",
     "sponsors": [
       {
-        "name": "",
-        "link": "",
-        "logo": ""
+        "name": "Intelygenz",
+        "link": "https://www.intelygenz.software",
+        "logo": "images/sponsors/intelygenz-logo.png"
+      },
+      {
+        "name": "Fictizia",
+        "link": "https://www.fictizia.com",
+        "logo": "images/sponsors/fictizia.svg"
       }
     ]
   },
