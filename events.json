@@ -17,8 +17,13 @@
         "application_link": "https://docs.google.com/forms/d/e/1FAIpQLSe45gchJct__9-sVC91C7IXTRzILlAQuCXk9BOfYKTQ6i38Cw/viewform"
       }
     ],
-    "venue": "",
+    "venue": "Google for Startups Campus Madrid",
     "sponsors": [
+      {
+        "name": "Google for Startups Campus Madrid",
+        "link": "https://www.campus.co/madrid/es/",
+        "logo": ""
+      },
       {
         "name": "Intelygenz",
         "link": "https://www.intelygenz.software",
@@ -27,7 +32,7 @@
       {
         "name": "Fictizia",
         "link": "https://www.fictizia.com",
-        "logo": "images/sponsors/fictizia.svg"
+        "logo": "images/sponsors/fictizia.png"
       }
     ]
   },
