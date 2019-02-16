@@ -13,8 +13,8 @@
         "application_link": "http://meetu.ps/e/GlBpB/v7V8T/f"
       },
       {
-        "application_text": "Apply for a place!",
-        "application_link": "https://docs.google.com/forms/d/e/1FAIpQLSe45gchJct__9-sVC91C7IXTRzILlAQuCXk9BOfYKTQ6i38Cw/viewform"
+        "application_text": "Applications are now closed",
+        "application_link": ""
       }
     ],
     "venue": "Google for Startups Campus Madrid",
@@ -22,7 +22,7 @@
       {
         "name": "Google for Startups Campus Madrid",
         "link": "https://www.campus.co/madrid/es/",
-        "logo": ""
+        "logo": "images/sponsors/google-for-startups.png"
       },
       {
         "name": "Intelygenz",
