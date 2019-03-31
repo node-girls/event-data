@@ -1,5 +1,32 @@
 [
   {
+    "city": "stockholm",
+    "city_display": "Stockholm",
+    "date": "2019-05-04",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "title": "Introduction to Node.js and JavaScript",
+    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
+    "application_data": [
+      {
+        "application_text": "Apply to be a student",
+        "application_link": "https://nodegirlsstockholm.typeform.com/to/jy3oeL"
+      },
+      {
+        "application_text": "Volunteer as a mentor",
+        "application_link": "https://nodegirlsstockholm.typeform.com/to/phLzRH"
+      }
+    ],
+    "venue": "Telenor",
+    "sponsors": [
+      {
+        "name": "Telenor",
+        "link": "https://www.telenor.se",
+        "logo": "images/sponsors/telenor.png"
+      }
+    ]
+  },
+  {
     "city": "madrid",
     "city_display": "Madrid",
     "date": "2019-03-02",
@@ -13,7 +40,7 @@
         "application_link": "http://meetu.ps/e/GlBpB/v7V8T/f"
       },
       {
-        "application_text": "Applications are now closed",
+        "application_text": "",
         "application_link": ""
       }
     ],
