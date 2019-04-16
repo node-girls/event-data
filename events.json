@@ -1,5 +1,28 @@
 [
   {
+    "city": "london",
+    "city_display": "London",
+    "date": "2019-05-18",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "title": "Introduction to Node.js and JavaScript",
+    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
+    "application_data": [
+      {
+        "application_text": "Applications will open very soon.",
+        "application_link": ""
+      }
+    ],
+    "venue": "Deliveroo",
+    "sponsors": [
+      {
+        "name": "Deliveroo",
+        "link": "https://deliveroo.co.uk",
+        "logo": "images/sponsors/deliveroo.png"
+      }
+    ]
+  },
+  {
     "city": "stockholm",
     "city_display": "Stockholm",
     "date": "2019-05-04",
