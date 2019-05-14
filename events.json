@@ -1,5 +1,38 @@
 [
   {
+    "city": "madrid",
+    "city_display": "Madrid",
+    "date": "2019-06-01",
+    "start_time": "10:00",
+    "end_time": "18:00",
+    "title": "Introduction to Node.js and JavaScript",
+    "synopsis": "This is a workshop with different options for both complete beginners and people who are comfortable with JavaScript. <br/> Follow the application link for more information.",
+    "application_data": [
+      {
+        "application_text": "Applications are now open!",
+        "application_link": "https://nodegirlsmadrid.typeform.com/to/Et8bNo"
+      }
+    ],
+    "venue": "Google for Startups Campus Madrid",
+    "sponsors": [
+      {
+        "name": "Google for Startups Campus Madrid",
+        "link": "https://www.campus.co/madrid/es/",
+        "logo": "images/sponsors/google-for-startups.png"
+      },
+      {
+        "name": "Intelygenz",
+        "link": "https://www.intelygenz.software",
+        "logo": "images/sponsors/intelygenz-logo.png"
+      },
+      {
+        "name": "Fictizia",
+        "link": "https://www.fictizia.com",
+        "logo": "images/sponsors/fictizia.png"
+      }
+    ]
+  },
+  {
     "city": "london",
     "city_display": "London",
     "date": "2019-05-18",
