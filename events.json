@@ -1,4 +1,27 @@
 [
+   {
+    "city": "london",
+    "city_display": "London",
+    "date": "2019-08-31",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "title": "Introduction to Node.js and JavaScript",
+    "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
+    "application_data": [
+      {
+        "application_link": "https://nodegirls.typeform.com/to/QIBUde",
+        "application_text": "Applications are now open!"
+      }
+    ],
+    "venue": "Pusher",
+    "sponsors": [
+      {
+        "name": "Pusher",
+        "link": "https://www.pusher.com/",
+        "logo": "images/sponsors/pusher.png"
+      }
+    ]
+  },
   {
     "city": "madrid",
     "city_display": "Madrid",
@@ -6,7 +29,7 @@
     "start_time": "10:00",
     "end_time": "18:00",
     "title": "Introduction to Node.js and JavaScript",
-    "synopsis": "This is a workshop with different options for both complete beginners and people who are comfortable with JavaScript. <br/> Follow the application link for more information.",
+    "synopsis": "This is a workshop with different options for both complete beginners and people who are comfortable with JavaScript.",
     "application_data": [
       {
         "application_text": "",
@@ -42,7 +65,7 @@
     "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.",
     "application_data": [
       {
-        "application_text": "Applications are now closed.",
+        "application_text": "",
         "application_link": ""
       }
     ],
@@ -198,12 +221,12 @@
     "synopsis": "This is a combo workshop aimed at both absolute beginners and folk with some programming experience. Learn JavaScript and programming basics.  Or, learn to build your first server with Node.js.<br/>",
     "application_data": [
       {
-        "application_text": "Apply to be a student",
-        "application_link": "https://nodegirlsstockholm.typeform.com/to/KHkY6h"
+        "application_text": "",
+        "application_link": ""
       },
       {
-        "application_text": "Volunteer as a mentor",
-        "application_link": "https://nodegirlsstockholm.typeform.com/to/KplsO0"
+        "application_text": "",
+        "application_link": ""
       }
     ],
     "venue": "Klarna",
