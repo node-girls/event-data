@@ -1,5 +1,22 @@
 [
-   {
+  {
+    "city": "london",
+    "city_display": "London",
+    "date": "2019-11-23",
+    "start_time": "10:00",
+    "end_time": "16:00",
+    "title": "Introduction to Node.js and JavaScript",
+    "synopsis": "Learn to build your first Node.js server with the popular Express framework. This workshop is aimed at folk with some programming experience.",
+    "application_data": [
+      {
+        "application_link": "https://nodegirls.typeform.com/to/hK6DCm",
+        "application_text": "Applications are open!"
+      }
+    ],
+    "venue": "TBC",
+    "sponsors": []
+  },
+  {
     "city": "london",
     "city_display": "London",
     "date": "2019-08-31",
@@ -10,7 +27,7 @@
     "application_data": [
       {
         "application_link": "",
-        "application_text": "Applications are now closed."
+        "application_text": ""
       }
     ],
     "venue": "Pusher",
