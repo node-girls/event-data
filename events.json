@@ -5,7 +5,7 @@
     "date": "2019-11-23",
     "start_time": "10:00",
     "end_time": "16:00",
-    "title": "Introduction to Node.js and JavaScript",
+    "title": "Introduction to Node.js with Express",
     "synopsis": "Learn to build your first Node.js server with the popular Express framework. This workshop is aimed at folk with some programming experience.",
     "application_data": [
       {
