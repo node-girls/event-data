@@ -1,5 +1,38 @@
 [
   {
+    "city": "madrid",
+    "city_display": "Madrid",
+    "date": "2019-11-30",
+    "start_time": "10:00",
+    "end_time": "18:30",
+    "title": "Triple-track workshop",
+    "synopsis": "This is a workshop with three tracks. You can choose to do one of the following:<ul><li>Introduction to Node.js with Express</li><li>ES6 and beyond</li><li>Introduction to web scraping</li></ul>",
+    "application_data": [
+      {
+        "application_link": "",
+        "application_text": "<p class=\"flow-text\">Applications are now closed</p>"
+      }
+    ],
+    "venue": "Google for Startups Campus Madrid",
+    "sponsors": [
+      {
+        "name": "Google for Startups Campus Madrid",
+        "link": "https://www.campus.co/madrid/es/",
+        "logo": "images/sponsors/google-for-startups.png"
+      },
+      {
+        "name": "BBVA",
+        "link": "https://www.bbva.es",
+        "logo": "images/sponsors/bbva.png"
+      },
+      {
+        "name": "Fictizia",
+        "link": "https://www.fictizia.com",
+        "logo": "images/sponsors/fictizia.png"
+      }
+    ]
+  },
+  {
     "city": "london",
     "city_display": "London",
     "date": "2019-11-23",
