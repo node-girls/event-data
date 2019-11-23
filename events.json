@@ -43,11 +43,17 @@
     "application_data": [
       {
         "application_link": "",
-        "application_text": "Applications are now closed."
+        "application_text": ""
       }
     ],
-    "venue": "TBC",
-    "sponsors": []
+    "venue": "Monzo",
+    "sponsors": [
+      {
+        "name": "Monzo",
+        "link": "https://monzo.com",
+        "logo": "images/sponsors/monzo.png"
+      }
+    ]
   },
   {
     "city": "london",
