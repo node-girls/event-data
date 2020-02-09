@@ -2,6 +2,39 @@
   {
     "city": "madrid",
     "city_display": "Madrid",
+    "date": "2020-02-29",
+    "start_time": "09:30",
+    "end_time": "18:00",
+    "title": "Javascript frameworks and web security (in collaboration with Vue Vixens and WoSecs)",
+    "synopsis": "In this event you will build your own front-end app with React Hooks and Vue. There will be a focus on authentication and web vulnerabilities.",
+    "application_data": [
+      {
+        "application_text": "More information can be found on our Meetup page",
+        "application_link": "https://www.meetup.com/es-ES/Node-Girls-Madrid/events/268382329/"
+      }
+    ],
+    "venue": "Google for Startups Campus Madrid",
+    "sponsors": [
+      {
+        "name": "Google for Startups Campus Madrid",
+        "link": "https://www.campus.co/madrid/es/",
+        "logo": "images/sponsors/google-for-startups.png"
+      },
+      {
+        "name": "Malt",
+        "link": "https://www.malt.es",
+        "logo": "images/sponsors/malt.png"
+      },
+      {
+        "name": "Fictizia",
+        "link": "https://www.fictizia.com",
+        "logo": "images/sponsors/fictizia.png"
+      }
+    ]
+  },
+  {
+    "city": "madrid",
+    "city_display": "Madrid",
     "date": "2019-11-30",
     "start_time": "10:00",
     "end_time": "18:30",
