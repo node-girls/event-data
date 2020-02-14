@@ -1,0 +1,29 @@
+{
+  "chapters": [
+    {
+      "imageSrc": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=500&fit=max",
+      "slug": "london",
+      "name": "London"
+    },
+    {
+      "imageSrc": "https://images.unsplash.com/photo-1519901548782-8ea35298e389?w=500&fit=max",
+      "slug": "oxford",
+      "name": "Oxford"
+    },
+    {
+      "imageSrc": "https://images.unsplash.com/photo-1512074911911-f4d3b014e81b?w=500&fit=max",
+      "slug": "stockholm",
+      "name": "Stockholm"
+    },
+    {
+      "imageSrc": "https://images.unsplash.com/photo-1500990702037-7620ccb6a60a?w=500&fit=max",
+      "slug": "tel-aviv",
+      "name": "Tel Aviv"
+    },
+    {
+      "imageSrc": "https://images.unsplash.com/photo-1523544135860-722ae770053e?w=500&fit=max",
+      "slug": "madrid",
+      "name": "Madrid"
+    }
+  ]
+}
