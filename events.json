@@ -20,7 +20,8 @@
         "link": "https://dynamicyield.com",
         "logo": "images/sponsors/dynamic-yield.png"
       }
-    ]
+    ],
+    "eventId": "416da4b6-ecfa-4b9e-a2e0-9a687a7ea17d"
   },
   {
     "city": "madrid",
@@ -53,7 +54,8 @@
         "link": "https://www.fictizia.com",
         "logo": "images/sponsors/fictizia.png"
       }
-    ]
+    ],
+    "eventId": "1f716b55-19ac-4a3b-ae93-fba8656dddf2"
   },
   {
     "city": "madrid",
@@ -86,7 +88,8 @@
         "link": "https://www.fictizia.com",
         "logo": "images/sponsors/fictizia.png"
       }
-    ]
+    ],
+    "eventId": "f04660d8-d983-4768-83c8-7ae5bcecb349"
   },
   {
     "city": "london",
@@ -109,7 +112,8 @@
         "link": "https://monzo.com",
         "logo": "images/sponsors/monzo.png"
       }
-    ]
+    ],
+    "eventId": "f4522a1d-7387-432e-9d2d-c701abae654b"
   },
   {
     "city": "london",
@@ -132,7 +136,8 @@
         "link": "https://www.pusher.com/",
         "logo": "images/sponsors/pusher.png"
       }
-    ]
+    ],
+    "eventId": "21823887-0bae-42af-88b5-a26f639bc891"
   },
   {
     "city": "madrid",
@@ -165,7 +170,8 @@
         "link": "https://www.fictizia.com",
         "logo": "images/sponsors/fictizia.png"
       }
-    ]
+    ],
+    "eventId": "49b52c4b-b5ca-4346-8062-a8993e59ee22"
   },
   {
     "city": "london",
@@ -188,7 +194,8 @@
         "link": "https://deliveroo.co.uk",
         "logo": "images/sponsors/deliveroo.png"
       }
-    ]
+    ],
+    "eventId": "2802722a-8deb-48b7-a8ef-4ee45766dc2b"
   },
   {
     "city": "stockholm",
@@ -215,7 +222,8 @@
         "link": "https://www.telenor.se",
         "logo": "images/sponsors/telenor.png"
       }
-    ]
+    ],
+    "eventId": "168191bd-f90b-4cb0-8121-54bcd7738b05"
   },
   {
     "city": "madrid",
@@ -252,7 +260,8 @@
         "link": "https://www.fictizia.com",
         "logo": "images/sponsors/fictizia.png"
       }
-    ]
+    ],
+    "eventId": "9db7d207-63fd-4135-8f80-b7a0b26f9044"
   },
   {
     "city": "tel-aviv",
@@ -275,7 +284,8 @@
         "link": "http://autodesktlv.com",
         "logo": "images/sponsors/autodesk-logo.png"
       }
-    ]
+    ],
+    "eventId": "92104a8d-cfbe-4434-a9b1-1385cfc4d054"
   },
   {
     "city": "london",
@@ -298,7 +308,8 @@
         "link": "https://ft.com",
         "logo": "images/sponsors/ft.png"
       }
-    ]
+    ],
+    "eventId": "6e02a89a-cf3c-4ddd-a519-5670ea16086e"
   },
   {
     "city": "tel-aviv",
@@ -321,7 +332,8 @@
         "link": "http://autodesktlv.com",
         "logo": "images/sponsors/autodesk-logo.png"
       }
-    ]
+    ],
+    "eventId": "0c9cc1c4-a28b-4cd4-b61a-951680e93cb4"
   },
   {
     "city": "stockholm",
@@ -348,7 +360,8 @@
         "link": "https://www.klarna.com",
         "logo": "images/sponsors/klarna.png"
       }
-    ]
+    ],
+    "eventId": "01ea7d3a-1c3b-450e-a97b-bce60a7e35df"
   },
   {
     "city": "london",
@@ -371,7 +384,8 @@
         "link": "http://www.condenastinternational.com/",
         "logo": "images/sponsors/cni.jpg"
       }
-    ]
+    ],
+    "eventId": "d475aaac-b526-439d-af0f-9a1f91d30a59"
   },
   {
     "city": "london",
@@ -394,7 +408,8 @@
         "link": "https://red-badger.com/",
         "logo": "images/sponsors/red-badger.png"
       }
-    ]
+    ],
+    "eventId": "8b371e5c-51c5-40e6-9bf3-fd98210eaf38"
   },
   {
     "city": "london",
@@ -417,7 +432,8 @@
         "link": "http://www.ticketmaster.com",
         "logo": "http://dohnncb4s7uno.cloudfront.net/sites/default/files/downloads/tmlogo_blue.png"
       }
-    ]
+    ],
+    "eventId": "9f718fb7-fffa-4a7f-bd16-60e4b924e041"
   },
   {
     "city": "london",
@@ -440,7 +456,8 @@
         "link": "https://www.pusher.com/",
         "logo": "images/sponsors/pusher.png"
       }
-    ]
+    ],
+    "eventId": "cf833912-fbef-4b95-846c-befb54ff11a3"
   },
   {
     "city": "london",
@@ -463,7 +480,8 @@
         "link": "https://www.pusher.com/",
         "logo": "images/sponsors/pusher.png"
       }
-    ]
+    ],
+    "eventId": "bde79e23-7a67-476b-b0d0-45eea8c43aea"
   },
   {
     "city": "london",
@@ -491,7 +509,8 @@
         "link": "https://www.pusher.com/",
         "logo": "images/sponsors/pusher.png"
       }
-    ]
+    ],
+    "eventId": "22f98ee6-e433-4b3b-89b8-496dadaf00c4"
   },
   {
     "city": "london",
@@ -514,7 +533,8 @@
         "link": "https://www.thoughtworks.com/",
         "logo": "http://www.acchajob.com/employerzone/companypic/05-05-2017-1493982363.jpg"
       }
-    ]
+    ],
+    "eventId": "9e4cf762-80ca-4874-8e3a-364395650652"
   },
   {
     "city": "london",
@@ -542,7 +562,8 @@
         "link": "http://stackoverflow.com/",
         "logo": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
       }
-    ]
+    ],
+    "eventId": "28431fe4-f538-42e0-a765-cf1b97e5ea8d"
   },
   {
     "city": "london",
@@ -570,6 +591,7 @@
         "link": "http://stackoverflow.com/",
         "logo": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
       }
-    ]
+    ],
+    "eventId": "64d5f6c6-09fb-4381-bd62-0c6307f9fe97"
   }
 ]
