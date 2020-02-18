@@ -21,7 +21,8 @@
         "logo": "images/sponsors/dynamic-yield.png"
       }
     ],
-    "eventId": "416da4b6-ecfa-4b9e-a2e0-9a687a7ea17d"
+    "eventId": "416da4b6-ecfa-4b9e-a2e0-9a687a7ea17d",
+    "event_id": "092df761-dd0f-4aae-a837-c5b27a2ab764"
   },
   {
     "city": "madrid",
@@ -55,7 +56,7 @@
         "logo": "images/sponsors/fictizia.png"
       }
     ],
-    "eventId": "1f716b55-19ac-4a3b-ae93-fba8656dddf2"
+    "event_id": "97cd81ab-f281-4e74-8324-e04f0d6fcc52"
   },
   {
     "city": "madrid",
@@ -89,7 +90,7 @@
         "logo": "images/sponsors/fictizia.png"
       }
     ],
-    "eventId": "f04660d8-d983-4768-83c8-7ae5bcecb349"
+    "event_id": "59fb123a-0f37-4a47-97c8-8462614b430d"
   },
   {
     "city": "london",
@@ -113,7 +114,7 @@
         "logo": "images/sponsors/monzo.png"
       }
     ],
-    "eventId": "f4522a1d-7387-432e-9d2d-c701abae654b"
+    "event_id": "2d788fab-071a-4d6e-8017-56cc12ad0df6"
   },
   {
     "city": "london",
@@ -137,7 +138,7 @@
         "logo": "images/sponsors/pusher.png"
       }
     ],
-    "eventId": "21823887-0bae-42af-88b5-a26f639bc891"
+    "event_id": "f8dc9e33-3169-4450-b356-3f4c82bfa8d4"
   },
   {
     "city": "madrid",
@@ -171,7 +172,7 @@
         "logo": "images/sponsors/fictizia.png"
       }
     ],
-    "eventId": "49b52c4b-b5ca-4346-8062-a8993e59ee22"
+    "event_id": "bee05e05-f6e0-4ea5-ab00-a9c67e6b8253"
   },
   {
     "city": "london",
@@ -195,7 +196,7 @@
         "logo": "images/sponsors/deliveroo.png"
       }
     ],
-    "eventId": "2802722a-8deb-48b7-a8ef-4ee45766dc2b"
+    "event_id": "e24023a4-6042-4468-831a-001145154aed"
   },
   {
     "city": "stockholm",
@@ -223,7 +224,7 @@
         "logo": "images/sponsors/telenor.png"
       }
     ],
-    "eventId": "168191bd-f90b-4cb0-8121-54bcd7738b05"
+    "event_id": "abe84b62-0368-4e5d-81bf-55d673a5196d"
   },
   {
     "city": "madrid",
@@ -261,7 +262,7 @@
         "logo": "images/sponsors/fictizia.png"
       }
     ],
-    "eventId": "9db7d207-63fd-4135-8f80-b7a0b26f9044"
+    "event_id": "22a2babd-aa60-463a-86a9-6f05821a8300"
   },
   {
     "city": "tel-aviv",
@@ -285,7 +286,7 @@
         "logo": "images/sponsors/autodesk-logo.png"
       }
     ],
-    "eventId": "92104a8d-cfbe-4434-a9b1-1385cfc4d054"
+    "event_id": "53627f53-1f2d-423a-9aec-2bc1f0b5c7dd"
   },
   {
     "city": "london",
@@ -309,7 +310,7 @@
         "logo": "images/sponsors/ft.png"
       }
     ],
-    "eventId": "6e02a89a-cf3c-4ddd-a519-5670ea16086e"
+    "event_id": "17988398-3809-4afe-b84d-038defc58a14"
   },
   {
     "city": "tel-aviv",
@@ -333,7 +334,7 @@
         "logo": "images/sponsors/autodesk-logo.png"
       }
     ],
-    "eventId": "0c9cc1c4-a28b-4cd4-b61a-951680e93cb4"
+    "event_id": "ddaf673f-b84c-42da-83f3-b19042992650"
   },
   {
     "city": "stockholm",
@@ -361,7 +362,8 @@
         "logo": "images/sponsors/klarna.png"
       }
     ],
-    "eventId": "01ea7d3a-1c3b-450e-a97b-bce60a7e35df"
+    "eventId": "01ea7d3a-1c3b-450e-a97b-bce60a7e35df",
+    "event_id": "027bd32c-3006-41e0-9612-0654461fc98c"
   },
   {
     "city": "london",
@@ -385,7 +387,7 @@
         "logo": "images/sponsors/cni.jpg"
       }
     ],
-    "eventId": "d475aaac-b526-439d-af0f-9a1f91d30a59"
+    "event_id": "c00711de-cf54-4430-84ca-0dfbaf8675db"
   },
   {
     "city": "london",
@@ -409,7 +411,7 @@
         "logo": "images/sponsors/red-badger.png"
       }
     ],
-    "eventId": "8b371e5c-51c5-40e6-9bf3-fd98210eaf38"
+    "event_id": "55e2d63b-a637-4694-8d3f-695fc6e0e1cb"
   },
   {
     "city": "london",
@@ -433,7 +435,7 @@
         "logo": "http://dohnncb4s7uno.cloudfront.net/sites/default/files/downloads/tmlogo_blue.png"
       }
     ],
-    "eventId": "9f718fb7-fffa-4a7f-bd16-60e4b924e041"
+    "event_id": "c12411f1-313a-4366-9717-4667a0be4d86"
   },
   {
     "city": "london",
@@ -457,7 +459,8 @@
         "logo": "images/sponsors/pusher.png"
       }
     ],
-    "eventId": "cf833912-fbef-4b95-846c-befb54ff11a3"
+    "eventId": "cf833912-fbef-4b95-846c-befb54ff11a3",
+    "event_id": "f0ee83c8-c1b5-4c56-8770-28d26f33b07d"
   },
   {
     "city": "london",
@@ -481,7 +484,7 @@
         "logo": "images/sponsors/pusher.png"
       }
     ],
-    "eventId": "bde79e23-7a67-476b-b0d0-45eea8c43aea"
+    "event_id": "0c87de6d-8a60-4a74-8ba2-181ad2b851c0"
   },
   {
     "city": "london",
@@ -510,7 +513,7 @@
         "logo": "images/sponsors/pusher.png"
       }
     ],
-    "eventId": "22f98ee6-e433-4b3b-89b8-496dadaf00c4"
+    "event_id": "f1c8d14b-b94f-4289-9401-8178848405bf"
   },
   {
     "city": "london",
@@ -534,7 +537,7 @@
         "logo": "http://www.acchajob.com/employerzone/companypic/05-05-2017-1493982363.jpg"
       }
     ],
-    "eventId": "9e4cf762-80ca-4874-8e3a-364395650652"
+    "event_id": "4211479d-6fdc-411b-aacd-7a9b719b2093"
   },
   {
     "city": "london",
@@ -563,7 +566,7 @@
         "logo": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
       }
     ],
-    "eventId": "28431fe4-f538-42e0-a765-cf1b97e5ea8d"
+    "event_id": "ef6643aa-1da7-4f8f-aa1b-fe1591b7e2fc"
   },
   {
     "city": "london",
@@ -592,6 +595,6 @@
         "logo": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
       }
     ],
-    "eventId": "64d5f6c6-09fb-4381-bd62-0c6307f9fe97"
+    "event_id": "32048d98-258f-4edc-a242-36918b62306b"
   }
 ]
