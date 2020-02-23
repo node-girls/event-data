@@ -40,6 +40,16 @@
     "venue": "Google for Startups Campus Madrid",
     "sponsors": [
       {
+        "name": "Auth0",
+        "link": "https://www.auth0.com",
+        "logo": "images/sponsors/auth0.png"
+      },
+      {
+        "name": "Tes",
+        "link": "https://www.tes.com",
+        "logo": "images/sponsors/tes.png"
+      },
+      {
         "name": "Google for Startups Campus Madrid",
         "link": "https://www.campus.co/madrid/es/",
         "logo": "images/sponsors/google-for-startups.png"
