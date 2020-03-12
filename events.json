@@ -2,15 +2,15 @@
   {
     "city": "tel-aviv",
     "city_display": "Tel Aviv",
-    "date": "2020-03-20",
+    "date": "TBC",
     "start_time": "09:00",
     "end_time": "14:00",
     "title": "Introduction to Node.js",
     "synopsis": "Want a new challenge? Create something from scratch?! This is the place for you to discover the secrets of programming! In a small group you'll experience and build a step-by-step web application in JavaScript.",
     "application_data": [
       {
-        "application_text": "Applications are now open!",
-        "application_link": "https://ti.to/nodegirls-tlv/march-20"
+        "application_text": "Due to the coronavirus outbreak, this event has been postponed until further notice.",
+        "application_link": ""
       }
     ],
     "venue": "Dynamic Yield",
