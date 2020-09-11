@@ -1,5 +1,3 @@
-[
-  {
     "city": "tel-aviv",
     "city_display": "Tel Aviv",
     "date": "TBC",
@@ -512,7 +510,7 @@
       {
         "name": "Qubit",
         "link": "http://www.qubit.com/",
-        "logo": "images/sponsors/qubit.jpg"
+        "logo": "images/sponsors/qubit.png"
       },
       {
         "name": "Pusher",
