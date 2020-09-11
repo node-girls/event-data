@@ -289,7 +289,7 @@
     "sponsors": [
       {
         "name": "Autodesk TLV",
-        "link": "http://autodesktlv.com",
+        "link": "https://autodesktlv.com",
         "logo": "images/sponsors/autodesk-logo.png"
       }
     ],
@@ -337,8 +337,8 @@
     "sponsors": [
       {
         "name": "Autodesk TLV",
-        "link": "http://autodesktlv.com",
-        "logo": "images/sponsors/autodesk-logo.png"
+        "link": "https://autodesktlv.com",
+        "logo": "images/sponsors/autodesk.png"
       }
     ],
     "event_id": "ddaf673f-b84c-42da-83f3-b19042992650"
@@ -389,7 +389,7 @@
     "sponsors": [
       {
         "name": "Condé Nast International",
-        "link": "http://www.condenastinternational.com/",
+        "link": "https://www.condenastinternational.com/",
         "logo": "images/sponsors/cni.jpg"
       }
     ],
@@ -437,8 +437,8 @@
     "sponsors": [
       {
         "name": "Ticketmaster",
-        "link": "http://www.ticketmaster.com",
-        "logo": "http://dohnncb4s7uno.cloudfront.net/sites/default/files/downloads/tmlogo_blue.png"
+        "link": "https://www.ticketmaster.com",
+        "logo": "images/sponsors/ticketmaster.png"
       }
     ],
     "event_id": "c12411f1-313a-4366-9717-4667a0be4d86"
@@ -539,7 +539,7 @@
       {
         "name": "ThoughtWorks",
         "link": "https://www.thoughtworks.com/",
-        "logo": "http://www.acchajob.com/employerzone/companypic/05-05-2017-1493982363.jpg"
+        "logo": "images/sponsors/thoughtworks.png"
       }
     ],
     "event_id": "4211479d-6fdc-411b-aacd-7a9b719b2093"
@@ -563,12 +563,12 @@
       {
         "name": "Yieldify",
         "link": "http://yieldify.com/gb/",
-        "logo": "https://images.martechadvisor.com/images/uploads/product_logos/yieldify_59d6428ee8795.png"
+        "logo": "images/sponsors/yieldify.png"
       },
       {
         "name": "StackOverflow",
         "link": "http://stackoverflow.com/",
-        "logo": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
+        "logo": "images/sponsors/stackoverflow.png"
       }
     ],
     "event_id": "ef6643aa-1da7-4f8f-aa1b-fe1591b7e2fc"
@@ -597,7 +597,7 @@
       {
         "name": "StackOverflow",
         "link": "http://stackoverflow.com/",
-        "logo": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png"
+        "logo": "images/sponsors/stackoverflow.png"
       }
     ],
     "event_id": "32048d98-258f-4edc-a242-36918b62306b"
