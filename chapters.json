@@ -6,12 +6,6 @@
     "timezone": "Europe/London"
   },
   {
-    "imageSrc": "https://images.unsplash.com/photo-1519901548782-8ea35298e389?w=500&fit=max",
-    "slug": "oxford",
-    "name": "Oxford",
-    "timezone": "Europe/London"
-  },
-  {
     "imageSrc": "https://images.unsplash.com/photo-1512074911911-f4d3b014e81b?w=500&fit=max",
     "slug": "stockholm",
     "name": "Stockholm",
